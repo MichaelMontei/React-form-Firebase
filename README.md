@@ -1,4 +1,7 @@
 # React-form-Firebase
+
+![Firebase](images/firebase.png)
+
 ### How to make a form in react with a Firebase backend?
 
 #### Step 1: First make a components folder and make:
